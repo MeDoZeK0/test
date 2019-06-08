@@ -127,5 +127,5 @@ if (!rank) return message.reply(' ')
 });
 
 
-client.login(process.env.TOKEN);
-client2.login(process.env.TOKEN2);
+client.login("NDkwNjE1ODAwOTkwNzkzNzQ0.XPr3FA.F27AVxEZp37qv9VKcuz7VyXX-oc");
+client2.login("NDkwMDMxNzIwNTk5Mzg4MTYw.XPr8eA.t-TfrQDmLQvL67blZDQcnOs3J5A");
